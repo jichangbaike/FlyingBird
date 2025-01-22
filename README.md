@@ -17,3 +17,4 @@ FlyingBird最新官网地址：https://fianlgo.com/sjRfWq
 -  年付8折（站内折上折，高达64折 ）优惠码：cny2580  可重复使用5次
 - 活动时间：即日至2025年2月16日23点59分
 
+![图片](https://github.com/user-attachments/assets/11492e8e-243b-4010-a3ec-beb5c718e14f)
