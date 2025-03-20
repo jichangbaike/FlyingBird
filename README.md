@@ -2,7 +2,7 @@
 
 FlyingBird（飞鸟）是一家创建于2022年IPLC专线机场，由海外团队运营，线路稳定，晚高峰不限速，没有倍率，稳定解锁Netflix、Disney+、HBO Max、TVB、Spotify等流媒体。
 
-FlyingBird最新官网地址：https://finalgo.xyz/fGXA7
+FlyingBird最新官网地址：https://finalgo.xyz/u7Wp2H
 
 套餐情况：
 
