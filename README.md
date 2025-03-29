@@ -1,12 +1,12 @@
 # FlyingBird飞鸟机场怎么样？
 
-![图片](https://raw.githubusercontent.com/tizibaike/FlyingBird/refs/heads/main/images/flyingbird.png)
-
 FlyingBird（飞鸟）是一家创建于2022年IPLC专线机场，由海外团队运营，线路稳定，晚高峰不限速，没有倍率，稳定解锁Netflix、Disney+、HBO Max、TVB、Spotify等流媒体。
 
 FlyingBird在全球超过70条优质线路，其节点遍布于亚洲、美洲和欧洲等国家和地区，如中国香港、中国台湾、日本、新加坡、马来西亚、土耳其、阿根廷和美国等，支持看奈飞Netflix/HULU/HBO/TVB/动画疯等国外流媒体视频，能够很好地满足大多数场景的应用落地和用户需求，性价比很高。
 
 FlyingBird最新官网地址：https://fianlgo.com/sjRfWq
+
+![图片](https://raw.githubusercontent.com/tizibaike/FlyingBird/refs/heads/main/images/1356.png)
 
 ## FlyingBird机场优势
 
