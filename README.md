@@ -36,3 +36,6 @@ FlyingBird最新官网地址：https://finalto.xyz/v8slgt
 - 活动时间：即日至2025年2月16日23点59分
 
 ![图片](https://raw.githubusercontent.com/tizibaike/FlyingBird/refs/heads/main/images/yTd9.png)
+
+**更多测评文章：**
+https://jichangbaike.com/
