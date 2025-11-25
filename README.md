@@ -38,4 +38,4 @@ FlyingBird最新官网地址：https://finalto.xyz/v8slgt
 ![图片](https://raw.githubusercontent.com/tizibaike/FlyingBird/refs/heads/main/images/yTd9.png)
 
 **更多测评文章：**
-https://jichangbaike.com/
+jichangbaike.com
