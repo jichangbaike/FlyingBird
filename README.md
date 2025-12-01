@@ -96,6 +96,7 @@
 - 实际流量额度、带宽、活动价格请以 FlyingBird 官网套餐说明为准；  
 - 使用过程中应遵守合理使用原则，避免长时间极限跑满带宽。
 
+<img src="https://raw.githubusercontent.com/jichangbaike/flyingbird/refs/heads/main/images/8246.png" witd="1000">
 ---
 
 ## 平台支持与客户端下载指引
