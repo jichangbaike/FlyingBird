@@ -1,5 +1,7 @@
 # 飞鸟（FlyingBird）官网注册入口说明与多平台使用指南
 
+<img src="https://raw.githubusercontent.com/tizibaike/FlyingBird/refs/heads/main/images/1356.png" alt="飞鸟（FlyingBird）">
+
 飞鸟（FlyingBird）是一家面向日常办公、学习与娱乐场景的网络服务提供商，支持多平台使用，强调连接稳定性与使用体验的平衡。  
 服务主要面向需要访问海外网站、流媒体平台以及 AI 工具的用户，为多终端、多场景的长期使用提供相对省心的解决方案。
 
@@ -7,8 +9,6 @@
 
 > 本文档不构成任何投资或使用建议，仅作为使用说明类资料，请在合法合规前提下使用相关服务。  
 > 最后更新：2025-12-01（如套餐或线路有调整，以官网为准）
-
-<img src="https://raw.githubusercontent.com/tizibaike/FlyingBird/refs/heads/main/images/1356.png" alt="飞鸟（FlyingBird）" width="1000">
 
 ---
 
