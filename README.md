@@ -122,6 +122,8 @@
 
 <img src="https://raw.githubusercontent.com/jichangbaike/flyingbird/refs/heads/main/images/flyingbird-test-20260312.png" alt="飞鸟（FlyingBird）" witd="900">
 
+测试时间：2026-03-12， 网络情况：电信1Gbps
+
 ---
 
 ## 平台支持与客户端下载指引
@@ -139,7 +141,7 @@
 - **其他环境**  
   - 部分软路由、OpenWrt 或其他设备支持通过订阅或手动配置接入，适合有一定网络基础的用户做“全屋统一接入”。
 
-> 推荐客户端名称、具体下载渠道与配置示例，请以 FlyingBird 官网的使用说明为准，避免从非官方来源下载安装包。
+> 推荐客户端名称、具体下载渠道与配置示例，请以飞鸟官网的使用说明为准，避免从非官方来源下载安装包。
 
 ---
 
