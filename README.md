@@ -2,8 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/tizibaike/FlyingBird/refs/heads/main/images/1356.png" alt="飞鸟（FlyingBird）">
 
-**飞鸟（FlyingBird）** 是一家面向日常办公、学习与娱乐场景的网络服务提供商，支持多平台使用，强调连接稳定性与使用体验的平衡。  
-飞鸟主要面向需要访问海外网站、流媒体平台以及 AI 工具的用户，为多终端、多场景的长期使用提供相对省心的解决方案。
+**飞鸟（FlyingBird）** 是一家面向日常办公、学习与娱乐场景的网络服务提供商，支持Windows、macOS、iOS、Android、Linux等多平台使用，强调连接稳定性与使用体验的平衡。 
+
+飞鸟支持 Shadowsocks 和 Trojan 双协议，采用 IPLC 专线线路， 支持 Netfilx、Disney+、Hbo等流媒体平台， 支持 ChatGPT、Claude等 AI 工具的访问，为多终端、多场景的长期使用提供相对省心的解决方案。
 
 > 📌 本仓库仅作为 **飞鸟（FlyingBird）** 的官网注册入口说明、基础使用介绍、多平台配置指引与常见问题整理。
 >
