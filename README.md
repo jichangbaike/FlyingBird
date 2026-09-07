@@ -10,7 +10,7 @@
 >
 > 📮 不提供接入服务、账号处理、节点维护和售后支持，请在合法合规前提下自行判断与使用相关服务。
 >
-> 📒 最后更新：**2026-8-9**（如套餐、节点或活动有调整，以官网为准）
+> 📒 最后更新：**2026-09-07**（如套餐、节点或活动有调整，以官网为准）
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -124,15 +124,15 @@
 
 - **Windows 客户端**  
   - 适用于 Win/10/11 操作系统；  
-  - [点击下载 macOS 客户端](https://app.pbbapi.baifeng88.com/apps/fb/fbapp-lite.exe)
+  - [点击下载 macOS 客户端](https://dl.pbbapi.hnlskj98.com/apps/fb/fbapp-lite.exe)
 
 - **macOS 客户端**  
   - 支持 Intel 及 Apple Silicon (M1/M2/M3) 芯片；
-  - [点击下载 macOS 客户端](https://app.pbbapi.baifeng88.com/apps/fb/fbapp-lite.pkg)
+  - [点击下载 macOS 客户端](https://dl.pbbapi.hnlskj98.com/apps/fb/fbapp-lite.pkg)
 
 - **Android 客户端**  
   - 支持安卓手机、平板及智能电视; 
-  - [点击下载 Android 客户端](https://app.pbbapi.baifeng88.com/apps/fb/fbapp-lite.apk)
+  - [点击下载 Android 客户端](https://dl.pbbapi.hnlskj98.com/apps/fb/fbapp-lite.apk)
 
 - **iOS / iPadOS 客户端**   
   - 外服 App Store 搜索：[**nextin**](https://apps.apple.com/us/app/nextin/id6754002454)，安装完成 (需要 iOS 15+)
@@ -143,7 +143,7 @@
 
 
 - **Linux 客户端**  
-  - [点击下载 Linux 客户端](https://app.pbbapi.baifeng88.com/apps/fb/fbapp-linux-lite.zip)
+  - [点击下载 Linux 客户端](https://dl.pbbapi.hnlskj98.com/apps/fb/fbapp-linux-lite.zip)
 
 - **OpenWrt 软路由**  
   - OpenWrt 软路由还在开放中，敬请期待。
@@ -233,5 +233,5 @@ A：建议优先查看飞鸟官网的帮助文档、公告与使用说明。如�
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-8-9`  
-- **Version:** `v1.2`
+- **Last Updated:** `2026-09-07`  
+- **Version:** `v1.3`
